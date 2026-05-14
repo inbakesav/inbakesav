@@ -16,7 +16,7 @@ I enjoy working on real-world projects involving data preprocessing, visualizati
 ## 🔹 Skills
 - Python
 - SQL
-- Pandas, NumPy
+- Pandas
 - Matplotlib, Seaborn
 - Power BI
 - Machine Learning (Basics)
