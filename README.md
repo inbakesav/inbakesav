@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Inbarasi 👋
 
-<!--
-**inbakesav/inbakesav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science student passionate about data analytics and machine learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Skills
+- Python
+- SQL
+- Pandas
+- Power BI
+
+---
+
+## 🔹 Currently Learning
+- Machine Learning
+- Data Science
+
+---
+
+## 🔹 Projects
+- Student Performance Prediction
+- Sales Dashboard
+
+---
+
+## 🔹 Goal
+To build impactful data-driven solutions and grow as a data scientist.
+
+---
+
+## 🔗 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/inbarasi-m-401b74333
