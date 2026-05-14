@@ -1,4 +1,6 @@
-# Hi, I'm Inbarasi 👋
+<img width="1584" height="396" alt="B Tech - Artificial Intelligence  and Data Science" src="https://github.com/user-attachments/assets/2d018701-654a-4765-b15c-bb85d0940b49" />
+
+# Hi, I'm Inbarasi M 👋
 
 🎓 AI & Data Science student passionate about data analytics and machine learning.
 
